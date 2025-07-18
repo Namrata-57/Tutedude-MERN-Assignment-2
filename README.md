@@ -48,3 +48,11 @@ The project is organized into three separate files:
 - Removed all unused or redundant lines.
 
 ---
+
+This project is deployed on Netlify.
+
+👉 Visit here: [https://tutedude-assignment-2.netlify.app/]
+
+(No installation required – it runs directly in your browser.)
+
+
